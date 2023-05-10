@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b7faec3b-1720-4313-8a49-b886fb9f0142/resourceGroups/Xcelligen-Training/providers/Microsoft.Web/sites/mynodeapp999",
+    "appService.deploySubpath": "."
+}
